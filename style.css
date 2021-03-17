@@ -1,0 +1,16 @@
+.upperAdvertImage {
+    height: 250px;
+}
+
+.featured-exam {
+    height: 120px;
+    border-radius: 10px;
+}
+
+.featured-exam p {
+    padding-top: 30px;
+}
+
+.featured-exam-text {
+    font-size: 30px;
+}
